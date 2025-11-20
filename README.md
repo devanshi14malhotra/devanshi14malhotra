@@ -21,18 +21,18 @@
 <div align="center"><h3>projects & github activity</h3></div>
 <p align="center">
   <a href="https://github.com/devanshi14malhotra">
-    <img src="https://github-readme-stats.vercel.app/api?username=devanshi14malhotra&show_icons=true&theme=midnight-purple" alt="GitHub Stats" width="400" />
+    <img src="https://github-readme-stats.vercel.app/api?username=devanshi14malhotra&show_icons=true&theme=midnight-purple&cache_seconds=1800" alt="GitHub Stats" width="400" />
   </a>
   <br><br>
   <a href="https://github.com/devanshi14malhotra">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=devanshi14malhotra&theme=midnight-purple" alt="GitHub Streak" width="400" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=devanshi14malhotra&theme=midnight-purple&cache_seconds=1800" alt="GitHub Streak" width="400" />
   </a>
   <br><br>
   <!-- <a href="https://github.com/devanshi14malhotra">
     <img src="https://github-profile-trophy.vercel.app/?username=devanshi14malhotra&theme=onedark" alt="GitHub Trophies" />
   </a> -->
   <a href="https://github.com/devanshi14malhotra">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanshi14malhotra&layout=compact&theme=midnight-purple" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanshi14malhotra&layout=compact&theme=midnight-purple&cache_seconds=1800" alt="Top Languages" />
   </a>
 </p>
 
