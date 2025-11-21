@@ -23,7 +23,7 @@
   <!-- GitHub Stats -->
   <a href="https://github.com/devanshi14malhotra">
     <img 
-      src="https://github-readme-stats.vercel.app/api?username=devanshi14malhotra&show_icons=true&theme=midnight-purple&v=1" 
+      src="https://github-readme-stats.vercel.app/api?username=devanshi14malhotra&show_icons=true&theme=midnight-purple&v=2" 
       alt="GitHub Stats" 
       width="400" 
     />
@@ -32,7 +32,7 @@
   <!-- Streak Stats (updated endpoint) -->
   <a href="https://github.com/devanshi14malhotra">
     <img 
-      src="https://streak-stats.demolab.com?user=devanshi14malhotra&theme=midnight-purple&v=1" 
+      src="https://streak-stats.demolab.com?user=devanshi14malhotra&theme=midnight-purple&v=2" 
       alt="GitHub Streak" 
       width="400" 
     />
@@ -41,7 +41,7 @@
   <!-- Top Languages -->
   <a href="https://github.com/devanshi14malhotra">
     <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanshi14malhotra&layout=compact&theme=midnight-purple&v=1" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanshi14malhotra&layout=compact&theme=midnight-purple&v=2" 
       alt="Top Languages" 
     />
   </a>
