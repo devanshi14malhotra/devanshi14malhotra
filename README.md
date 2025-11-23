@@ -32,7 +32,7 @@
   <!-- Streak Stats (updated endpoint) -->
   <a href="https://github.com/devanshi14malhotra">
     <img 
-      src="https://streak-stats.demolab.com?user=devanshi14malhotra&theme=midnight-purple&v=2" 
+      src="https://streak-stats.demolab.com?user=devanshi14malhotra&theme=midnight-purple&v=2&cache_seconds=1800" 
       alt="GitHub Streak" 
       width="400" 
     />
