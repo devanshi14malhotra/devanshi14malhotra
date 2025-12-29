@@ -23,7 +23,7 @@
   <!-- GitHub Stats -->
   <a href="https://github.com/devanshi14malhotra">
     <img 
-      src="https://github-readme-stats.vercel.app/api?username=devanshi14malhotra&show_icons=true&theme=midnight-purple&v=2" 
+      src="https://github-readme-stats.vercel.app/api?username=devanshi14malhotra&show_icons=true&theme=midnight-purple" 
       alt="GitHub Stats" 
       width="400" 
     />
@@ -32,7 +32,7 @@
   <!-- Streak Stats (updated endpoint) -->
   <a href="https://github.com/devanshi14malhotra">
     <img 
-      src="https://streak-stats.demolab.com?user=devanshi14malhotra&theme=midnight-purple&v=2&cache_seconds=1800" 
+      src="https://streak-stats.demolab.com?user=devanshi14malhotra&theme=midnight-purple&cache_seconds=1800" 
       alt="GitHub Streak" 
       width="400" 
     />
@@ -41,12 +41,11 @@
   <!-- Top Languages -->
   <a href="https://github.com/devanshi14malhotra">
     <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanshi14malhotra&layout=compact&theme=midnight-purple&v=2" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanshi14malhotra&layout=compact&theme=midnight-purple" 
       alt="Top Languages" 
     />
   </a>
 </p>
-
 
 ---
 
@@ -62,14 +61,21 @@
   <h3> connect with me</h3>
 
   <a href="https://www.linkedin.com/in/devanshi5malhotra/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=LinkedIn&label=&color=8334F8&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo" />
   </a>
 
   <a href="mailto:devanshi5malhotra@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo" /> 
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=8334F8&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo" /> 
   </a>
 
   <a href="https://discord.com/users/868410133703696394" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo" />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=8334F8&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo" />
   </a>
 </div>
+
+---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=devanshi14malhotra&label=Profile%20views&color=8334F8&style=flat" alt="profile views" />
+</p>
+
+
