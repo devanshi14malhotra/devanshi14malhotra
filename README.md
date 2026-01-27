@@ -1,3 +1,5 @@
+<img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/4c8a729bb53e68ad274c9a854060a273949a6d35/Assets/Blue%20Pink%20Line.gif" width="100%">
+
 <div align="center">
   <a href="https://marvel-banner.netlify.app/" target="_blank" title="click me!">
   <img src="https://marvel-banner.netlify.app/public/banner.png" width="40%" height="5%" alt="Neon space banner" />
@@ -23,26 +25,29 @@
   <!-- GitHub Stats -->
   <a href="https://github.com/devanshi14malhotra">
     <img 
-      src="https://github-readme-stats.vercel.app/api?username=devanshi14malhotra&show_icons=true&theme=midnight-purple" 
+      src="https://awesome-github-stats.azurewebsites.net/user-stats/devanshi14malhotra?theme=midnight-purple&cardType=github&hide_border=false"
       alt="GitHub Stats" 
       width="400" 
+      style="border:2px solid #ffffff; border-radius:80%;"
     />
   </a>
   <br>
-  <!-- Streak Stats (updated endpoint) -->
+  <!-- Streak Stats -->
   <a href="https://github.com/devanshi14malhotra">
     <img 
-      src="https://streak-stats.demolab.com?user=devanshi14malhotra&theme=midnight-purple&cache_seconds=1800" 
+      src="https://nirzak-streak-stats.vercel.app/?user=devanshi14malhotra&theme=midnight-purple&hide_border=false"
       alt="GitHub Streak" 
       width="400" 
+      style="border:2px solid #ffffff; border-radius:80%;"
     />
   </a>
   <br>
   <!-- Top Languages -->
   <a href="https://github.com/devanshi14malhotra">
     <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanshi14malhotra&layout=compact&theme=midnight-purple" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanshi14malhotra&layout=compact&theme=midnight-purple&hide_border=false" 
       alt="Top Languages" 
+      style="border:2px solid #ffffff; border-radius:80%;"
     />
   </a>
 </p>
@@ -56,6 +61,9 @@
   </a>
 </div>
 
+<p align="center">
+  <img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/Pixel%20Cat.gif" alt="Pixel Cat" />
+</p>
 
 <div align="center">
   <h3> connect with me</h3>
@@ -73,9 +81,19 @@
   </a>
 </div>
 
----
+<br>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=devanshi14malhotra&label=Profile%20views&color=8334F8&style=flat" alt="profile views" />
 </p>
 
+
+<img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/4c8a729bb53e68ad274c9a854060a273949a6d35/Assets/Blue%20Pink%20Line.gif" width="100%">
+
+<!-- <p align="center">
+  <img
+    src="https://ssr-contributions-svg.vercel.app/_/devanshi14malhotra?chart=3dbar&flatten=1.25&weeks=34&animation=wave&format=svg&gap=0.4&scale=1.2&animation_frequency=0.2&animation_amplitude=30&theme=purple"
+    alt="Contribution Graph"
+  />
+</p> -->
 
