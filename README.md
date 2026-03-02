@@ -43,13 +43,13 @@
   </a>
   <br>
   <!-- Top Languages -->
-  <a href="https://github.com/devanshi14malhotra">
+  <!-- <a href="https://github.com/devanshi14malhotra">
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanshi14malhotra&layout=compact&theme=midnight-purple&hide_border=false" 
       alt="Top Languages" 
       style="border:2px solid #ffffff; border-radius:80%;"
     />
-  </a>
+  </a> -->
 </p>
 
 ---
