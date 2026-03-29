@@ -33,14 +33,14 @@
   </a>
   <br>
   <!-- Streak Stats -->
-  <a href="https://github.com/devanshi14malhotra">
-    <img 
-      src="https://nirzak-streak-stats.vercel.app/?user=devanshi14malhotra&theme=midnight-purple&hide_border=false"
-      alt="GitHub Streak" 
-      width="400" 
-      style="border:2px solid #ffffff; border-radius:80%;"
-    />
-  </a>
+  <p align="center">
+    <a href="https://github.com/devanshi14malhotra">
+      <img 
+        src="https://github-readme-streak-stats.herokuapp.com?user=devanshi14malhotra&theme=midnight-purple&hide_border=false&border=FFFFFF"
+        alt="GitHub Streak"
+      />
+    </a>
+  </p>
   <br>
   <!-- Top Languages -->
   <!-- <a href="https://github.com/devanshi14malhotra">
@@ -51,6 +51,13 @@
     />
   </a> -->
 </p>
+
+<!-- <p align="center">
+  <img 
+    src="https://github-widgetbox.vercel.app/api/profile?username=devanshi14malhotra&data=followers,repositories,stars,commits&theme=midnight-purple"
+    alt="Stats Bar Card"
+  />
+</p> -->
 
 ---
 
