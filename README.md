@@ -36,7 +36,7 @@
   <p align="center">
     <a href="https://github.com/devanshi14malhotra">
       <img 
-        src="https://github-readme-streak-stats.herokuapp.com?user=devanshi14malhotra&theme=midnight-purple&hide_border=false&border=FFFFFF&cache_seconds=0"
+        src="https://github-readme-streak-stats.herokuapp.com?user=devanshi14malhotra&theme=midnight-purple&hide_border=false&border=FFFFFF"
         alt="GitHub Streak"
       />
     </a>
