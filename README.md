@@ -1,4 +1,4 @@
-<img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/4c8a729bb53e68ad274c9a854060a273949a6d35/Assets/Blue%20Pink%20Line.gif" width="100%">
+<!-- <img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/4c8a729bb53e68ad274c9a854060a273949a6d35/Assets/Blue%20Pink%20Line.gif" width="100%"> -->
 
 <div align="center">
   <a href="https://marvel-banner.netlify.app/" target="_blank" title="click me!">
