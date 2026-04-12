@@ -62,7 +62,7 @@
 ---
 
 <div align="center">
-  <h3>🎵current vibes</h3>
+  <h3>🎵current vibes🎵</h3>
   <a href="https://open.spotify.com/playlist/1sViHDZkjc34PRFvb4k80g?si=a83ae00f49e94edb" target="_blank">
     <img src="https://img.shields.io/badge/Play%20on%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=3A008B" alt="Play on Spotify" />
   </a>
