@@ -6,14 +6,14 @@
 </a>
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Crimson+Text&weight=600&size=22&pause=1000&color=8334F8&center=true&vCenter=true&width=600&lines=B.Tech+IT+sophomore+.+.+.;building+projects+that+feel+like+me+.+.+.;exploring+AI+and+stepping+into+research+.+.+.;music+keeps+me+sane+while+the+code+keeps+me+awake+;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Crimson+Text&weight=600&size=22&pause=1000&color=8334F8&center=true&vCenter=true&width=600&lines=B.Tech+IT+3rd-year+student+.+.+.;building+projects+that+feel+like+me+.+.+.;exploring+AI+and+stepping+into+research+.+.+.;music+keeps+me+sane+while+the+code+keeps+me+awake+;)
 </div>
 </div>
 
 <div align="center"><h3>about me</h3></div>
 <div style="max-width: 400px; margin: auto; padding: 15px 20px; border-radius: 10px; background: #111020; border: 1px solid #6a0dad55;">
   <pre>
-  • B.Tech IT sophomore exploring AI, ML, DSA & research
+  • B.Tech IT Junior exploring AI, ML, DL, DSA & research
   • Driven learner with a strong interest in XAI, NSAI, CV & deep tech
   • Growing through learning, building, and small consistent wins</pre>
 </div>
