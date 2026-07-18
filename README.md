@@ -13,7 +13,7 @@
 <div align="center"><h3>about me</h3></div>
 <div style="max-width: 400px; margin: auto; padding: 15px 20px; border-radius: 10px; background: #111020; border: 1px solid #6a0dad55;">
   <pre>
-  • B.Tech IT Junior exploring AI, ML, DL, DSA & research
+  • B.Tech IT Junior exploring AI, ML, DL, DSA, open-source & research
   • Driven learner with a strong interest in XAI, NSAI, CV & deep tech
   • Growing through learning, building, and small consistent wins</pre>
 </div>
