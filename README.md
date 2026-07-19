@@ -84,7 +84,7 @@
   </a>
 
   <a href="https://discord.com/users/868410133703696394" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord-5865F2&logo=discord&label=&color=8334F8&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo" />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=8334F8&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo" />
   </a>
 </div>
 
